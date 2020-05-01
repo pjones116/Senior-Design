@@ -1,5 +1,5 @@
 # User Manual
-## __Setup Steps__:
+## __Back End and Physical Setup__:
 #### Image the Raspberry Pi:
 •	The official guide for this process can be found here: https://www.raspberrypi.org/documentation/installation/installing-images/
 •	For the purposes of this generation of the product, our team used Raspbian GNU / Linux 9, also known as Stretch, but the OS version for the system should have little influence on proper operation
@@ -132,7 +132,7 @@
   o	It is recommended that both Pagekite addresses (main and VNC), atlas_upload, and redis-server stay continually running
 •	This enables the application to run with end-to-end success by only executing the main atlas.py
 
-## __Front End Code Setup__:
+## __Front End Setup__:
 •	This project is uses a React front end app that is written in JavaScript.
 •	Currently the code can be seen on a front-end GUI. However, due to some impediments related to the Coronavirus it is very basic and there is no user experience.
 •	Information and documentation for React can be found here: https://reactjs.org/
