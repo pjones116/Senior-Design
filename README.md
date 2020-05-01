@@ -2,6 +2,7 @@
 ## __Back End and Physical Setup__:
 #### Image the Raspberry Pi:
 •	The official guide for this process can be found here: https://www.raspberrypi.org/documentation/installation/installing-images/
+
 •	For the purposes of this generation of the product, our team used Raspbian GNU / Linux 9, also known as Stretch, but the OS version for the system should have little influence on proper operation
 
 #### Connect the Pi to basic peripherals and boot:
